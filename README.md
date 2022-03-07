@@ -3,8 +3,11 @@
 Steps:
 
 fork and clone the repo to your machine
+
 cd into the backend with -> cd foaming-class-backend
+
 run bundle install
+
 run rake db:migrate
 run rake db:seed
 run the rails server with rails s
